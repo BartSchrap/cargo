@@ -1,0 +1,18 @@
+======================================================================================
+                           INSTALLATION AND CONFIGURATIONS
+======================================================================================
+
+1.   After Installation, copy folder “VerDep", and paste in C:\xampp\htdocs or similar
+
+2.   Create new database ‘cargo’ via http://localhost/phpmyadmin/
+
+3.   Import database tables and content using cargo.sql
+
+4.   Run your xampp or similar
+
+5.   From browser type:     http://localhost/VerDep
+               
+6.   Login Details: 
+      
+     username:     admin
+     password:     admin123
